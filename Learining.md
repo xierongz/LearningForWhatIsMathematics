@@ -12,7 +12,7 @@
 &emsp;  自然数或<font color=0x0000fe>**正整数**</font>的数学理论就是<font color=0x0000fe>**算术**</font>
 &emsp;  五个算术基本规律：
 <center>
-(1).a+b = b+a           (加法<font color=0x0000fe>**交换律**</font>)</left>
+(1).a+b = b+a           (加法<font color=0x0000fe>**交换律**</font>)
 (2).ab = ba             (乘法<font color=0x0000fe>**交换律**</font>)
 (3).a+(b+c) = (a+b)+c   (加法<font color=0x0000fe>**结合律**</font>)
 (4).(ab)c = a(bc)       (乘法<font color=0x0000fe>**结合律**</font>)
