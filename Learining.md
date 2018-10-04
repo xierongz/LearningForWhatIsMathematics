@@ -25,7 +25,11 @@
 &emsp;　　它定义了<font color=0x0000fe>**减法**</font>运算。
 &emsp;　　加法和减法称为<font color=0x0000fe>**互逆**</font>运算
 &emsp;　　**注意**：整数b-a仅当b>a时才有定义，当b<a时，符号b-a解释为<font color=0x0000fe>**负整数**</font>。
+</center>
+
+
 ### 2.整数的表示
+
 &emsp;　　位置记法：
 &emsp;　　对于一个较大的正整数，例如“三百七十二”可表示为
 <center>
