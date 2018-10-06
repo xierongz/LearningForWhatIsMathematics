@@ -89,3 +89,30 @@ abcd
 | 6   | 6   | 15  | 24  | 33  | 42  | 51  |
 
 在非十进制，算术规则仍不变，但加法表和乘法表计算。
+
+## §2.数系的无限性    数学归纳法
+### 1.数学归纳法原理
+&emsp;　<font color=0x0000fe>**数学归纳法**</font>是以**一种很不同的方式来证明无穷序列情形都是正确的数学定理**
+&emsp;　**数学归纳法的基本思想：**
+&emsp;　　　为了证明一个对所有n成立的定理A，连续地证明一系列特殊情形A1,A2,...。之所以能这样做，主要是基于  
+&emsp;　　　**a).存在一个一般方法，它表明：如果任意一命题Ar是正确的，则下一个命题Ar+1也是正确的;**
+&emsp;　　　**b).第一个命题A1已知是正确的。**
+
+### 2.等差级数
+&emsp;　**对任意的n值，前n个整数的和 1+2+3+...+n等于n(n+1)/2**
+
+### 3.等比级数
+&emsp;　**对每个n值有：**
+&emsp;　　　　　　　　　　　　　![](../LearningForWhatIsMathematics/GeometricProgression.jpg)
+
+### 4.前n项平方和
+&emsp;　**对每个n值有：**
+&emsp;　　　　　　　　　　　　　![](../LearningForWhatIsMathematics/Supplier.jpg)
+### 5. 一个重要的不等式
+&emsp;　**对于p>-1的任意数和任意正整数n有：**
+&emsp;　　　　　　　　　　　　　![](../LearningForWhatIsMathematics/Inequation.jpg)
+
+
+### 6.二项式定理
+&emsp;　**对于任意正整数n有：**
+&emsp;　　　　　　　　　　　　　![](../LearningForWhatIsMathematics/BinomialTheorem.jpg)
