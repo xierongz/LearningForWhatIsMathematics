@@ -116,3 +116,10 @@ abcd
 ### 6.二项式定理
 &emsp;　**对于任意正整数n有：**
 &emsp;　　　　　　　　　　　　　![](../LearningForWhatIsMathematics/BinomialTheorem.jpg)
+
+### 7.再谈数学归纳法
+&emsp;　原理推广：
+&emsp;　**如果给定一系列命题As,As+1,As+2,...,s为正整数，且如果
+&emsp;　a).对每个r>=s的值，Ar为真时能推出Ar+1也为真;
+&emsp;　b).As已知是真的。
+则所有命题As,As+1,As+2,...是真的。**
