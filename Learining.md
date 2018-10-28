@@ -12,10 +12,10 @@
 &emsp;  自然数或<font color=0x0000fe>**正整数**</font>的数学理论就是<font color=0x0000fe>**算术**</font>
 &emsp;  五个算术基本规律：
 <center>
-(1).a+b = b+a           (加法<font color=0x0000fe>**交换律**</font>)
-(2).ab = ba             (乘法<font color=0x0000fe>**交换律**</font>)
-(3).a+(b+c) = (a+b)+c   (加法<font color=0x0000fe>**结合律**</font>)
-(4).(ab)c = a(bc)       (乘法<font color=0x0000fe>**结合律**</font>)
+(1).a+b = b+a           (加法 **<font color=0x0000fe>交换律</font>**)
+(2).ab = ba             (乘法 **<font color=0x0000fe>交换律</font>**)
+(3).a+(b+c) = (a+b)+c   (加法 **<font color=0x0000fe>结合律</font>**)
+(4).(ab)c = a(bc)       (乘法 **<font color=0x0000fe>结合律</font>**)
 (5).a(b+c) = ab+bc      (<font color=0x0000fe>**分配律**</font>)
 </center>
 
@@ -23,8 +23,9 @@
 &emsp;　　　　 a<b和b>a这两个等价命题指：b可由a加上一个适当选择(使得b = a+c)的c而得到。这时记
 <center>c = b - a</center>
 &emsp;　　它定义了<font color=0x0000fe>**减法**</font>运算。
-&emsp;　　加法和减法称为<font color=0x0000fe>**互逆**</font>运算
-&emsp;　　**注意**：整数b-a仅当b>a时才有定义，当b<a时，符号b-a解释为<font color=0x0000fe>**负整数**</font>。
+&emsp;　　加法和减法称为<font color=0x0000fe>**互逆**</font>运算。
+
+&emsp;　　**注意**：整数b-a仅当b>a时才有定义，当b<a时，符号b-a解释为 **<font color=0x0000fe>负整数</font>**。
 </center>
 
 
@@ -123,3 +124,12 @@ abcd
 &emsp;　a).对每个r>=s的值，Ar为真时能推出Ar+1也为真;
 &emsp;　b).As已知是真的。
 则所有命题As,As+1,As+2,...是真的。**
+
+# 第一章补充 数论
+## 引言
+## §1 素数
+### 1.基本事实
+&emsp;　在数论中，最基本的、最重要的一类数是<font color=0x0000fe>**素数**</font>。一个大于1的正整数p，它除了1和它本身外没有因子，就称为素数。(素数无穷性的证明在P31，使用反证法)
+&emsp;　素数的重要性：**每一个整数都能表示为素数的乘积**。一个整数(除了0和1)如果不是素数，就称为是<font color=0x0000fe>**合数**</font>。
+&emsp;　一个数N的素因子分解是唯一的：
+&emsp;　　**每一个比1大的整数N只能有一种方式分解成素数的乘积。**(证明在P54 欧几里得证明 和 P32 反证法证明)
